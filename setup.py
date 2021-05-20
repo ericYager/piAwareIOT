@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-#test new repo
+
 setup(name='piAwareIOT',
     version='0.1',
     description='Handle signal data from a piAware device',
