@@ -4,6 +4,6 @@ __pycache__/
 
 /myenv
 
-src/certs/Amazon-root-CA-1.pem
-src/certs/device.pem.crt
-src/certs/private.pem.key
+config/certs/Amazon-root-CA-1.pem
+config/certs/device.pem.crt
+config/certs/private.pem.key
